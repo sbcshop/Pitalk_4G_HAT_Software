@@ -22,7 +22,7 @@ The PiTalk 4G HAT is a handy, low-power Raspberry Pi HAT that features multi-com
 
 ## Documentation
 
-* [Pi-1.28-TOUCH-LCD-HAT Hardware](https://github.com/sbcshop/Pi-1.28-TOUCH-LCD-HAT-Hardware)
+* [PiTalk-4G HAT Hardware](https://github.com/sbcshop/Pitalk_4G_HAT_Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
@@ -31,10 +31,9 @@ The PiTalk 4G HAT is a handy, low-power Raspberry Pi HAT that features multi-com
 
 ## Related Products
 
-* [Round LCD HAT](https://shop.sb-components.co.uk/products/round-lcd-hat-for-raspberry-pi?_pos=3&_sid=b3a6e03ae&_ss=r)
+* [PiTalk](https://shop.sb-components.co.uk/products/pitalk-modular-smartphone-for-raspberry-pi?variant=12516562436179)
 
- ![Round LCD HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/RaspberryPiRoundLCD.png?v=1619171155&width=400)
-
+ ![PiTalk](https://cdn.shopify.com/s/files/1/1217/2104/products/PiTalk_-_Modular_SmartPhone_for_Raspberry_Pi_5.png?v=1528805795&width=400)
 
 ## Product License
 
