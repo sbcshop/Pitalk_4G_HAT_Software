@@ -16,7 +16,7 @@ The PiTalk 4G HAT is a handy, low-power Raspberry Pi HAT that features multi-com
 * Control via AT commands (3GPP TS 27.007, 27.005, and SIMCOM enhanced AT Commands)
 * Supports SIM application toolkit: GSM 11.14 Release 99
 
-<img src ="https://ksr-ugc.imgix.net/assets/039/316/651/fb554a2219777d42ec4f9509269a40fc_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1669342347&gif-q=50&lossless=true&s=fb89772dfb5e9207810e7f30462f9bd8" />
+<img src ="https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/images/PiTalkPinouts.png" />
 
 
 ## Working 
