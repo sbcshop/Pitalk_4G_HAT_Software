@@ -41,7 +41,7 @@ The PiTalk 4G HAT is a handy, low-power Raspberry Pi HAT that features multi-com
 <img src ="https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/images/PiTalkPinouts.png" />
 
 
-## Working 
+## Setup PiTalk 4G HAT with RPi 
 
 To Start working with our PiTalk 4G HAT, set-up your Raspberry Pi or RockPi by flashing their os file and boot it, for this [click here](https://rockpi.eu/Rockpi4/downloads).
 
@@ -54,6 +54,24 @@ git clone https://github.com/sbcshop/Pitalk_4G_HAT_Software.git
 * After, downloading this repository you will see two directory in it. One is of ***Example code*** and 2nd one is of ***Library*** file.
 * Now, open the both Example and Library file. To open these files make sure you have python installed in your Pi board.
 * In example code there are some code line given, to use the different functionality of PiTalk HAT you have to comment and uncomment the code line according to instruction given in it and after that run the code.
+
+
+## Setup PiTalk 4G  Via USB
+
+<img src ="https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/images/Pitalk%20usb.jpg" />
+
+***Step.1 -*** We have also provided the USB feature in our PiTalk 4G HAT to use this HAT as dongle. For this you have to to install its ***USB driver*** provided in this Repository. For this download and unzip the zip file of it and ***install*** in your computer system.
+
+***Step.2 -*** After installing the USB driver compatible with your system, plugin your 4G USB Dongle in your system via USB Cable. Open the device manager and you will see ***COM Port of Quectel*** device showing as in below image:
+
+<img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Img.png" />
+<img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr6.png" />
+
+***Step.3 -*** Now, insert SIM card and attach 4G antenna to it and plugin it in your system after few seconds you see a green led will glow and a blue LED will start blinking. If everything goes well it will connect as a cellular network in your system as shown below:
+
+<img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr7.png" />
+
+***Step.4 -*** After the succesfull connection to your PiTalk 4G HAT board you will be able to use your cellular network to connect with internet. 
 
 
 ## Documentation
