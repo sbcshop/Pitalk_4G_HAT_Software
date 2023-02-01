@@ -36,7 +36,7 @@ The PiTalk 4G HAT is a handy, low-power Raspberry Pi HAT that features multi-com
   * SMS cell broadcast
   * SMS storage: ME by default
 
-* For more key features of EG25-G Module [click here](https://github.com/sbcshop/PiTalk_4G_Dongle_Hardware/tree/main/Documents)
+* For more key features of EG25-G Module [click here](https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/Quectel_EG25-Standard_Specification.pdf)
 
 <img src ="https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/images/PiTalkPinouts.png" />
 
