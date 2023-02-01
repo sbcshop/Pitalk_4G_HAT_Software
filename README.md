@@ -4,17 +4,39 @@
 
 The PiTalk 4G HAT is a handy, low-power Raspberry Pi HAT that features multi-communication functionalities such as GSM, GPRS, TCP, etc. It allows your Pi to easily make phone calls, send messages, connect to wireless networks, and so on. It is the most convenient IoT HAT that works with all variants of Raspberry Pi (model A, B and Zero). The users can also connect PiTalk with other iOS and Android devices as well. It is primarily designed to offer connection to your IoT projects and applications without requiring a Wi-Fi network or ethernet connections. 
 
-## Features 
+## Key Features Of EG25-G:
 
-* Standard Raspberry Pi 40PIN GPIO extension header, supports Raspberry Pi series boards and Jetson Nano
-* Supports SMS, phone call, GPRS, TCP/IP, DTMF, HTTP, FTPI, etc.
-* UART interface, for connecting controller boards like Arduino/STM32
-* Onboard voltage translator, 3.3V by default, switch to 5V via jumper
-* 2x LED indicators, easy to monitor the working status
-* SIM card slot supports 1.8V/3V SIM card
-* Baudrate: 2400bps ~ 115200bps (115200bps by default)
-* Control via AT commands (3GPP TS 27.007, 27.005, and SIMCOM enhanced AT Commands)
-* Supports SIM application toolkit: GSM 11.14 Release 99
+* Supply voltage: 3.3–4.3 V.
+* **LTE Features:**
+  *  Support up to non-CA Cat 4 FDD and TDD.
+  * Support 1.4/3/5/10/15/20 MHz RF bandwidth.
+  * Support MIMO in DL direction.
+  * LTE-FDD: Max. 150 Mbps (DL), Max. 50 Mbps (UL).
+  * LTE-TDD: Max. 130 Mbps (DL), Max. 30 Mbps (UL).
+  
+* **UMTS Features:**
+  * Support 3GPP R8 DC-HSDPA, HSPA+, HSDPA, HSUPA and WCDMA.
+  * Support QPSK, 16-QAM and 64-QAM modulation.
+  * DC-HSDPA: Max. 42 Mbps (DL).
+  * HSUPA: Max. 5.76 Mbps (UL).
+  * WCDMA: Max. 384 kbps (DL), Max. 384 kbps (UL).
+
+* **GSM Features:**
+  * Support GPRS multi-slot class 33 (33 by default).
+  * Coding scheme: CS-1, CS-2, CS-3 and CS-4.
+  * Max. 107 kbps (DL), Max. 85.6 kbps (UL).
+  
+* **Internet Protocol Features:** 
+  * Support TCP/UDP/PPP/FTP/FTPS/HTTP/HTTPS/NTP/PING/QMI/NITZ/SMTP/SSL/MQTT/CMUX/SMTPS/FILE/MMS* protocols.
+  * Support PAP (Password Authentication Protocol) and CHAP (Challenge Handshake Authentication Protocol) protocols which are usually used for PPP connections.
+
+* **SMS:**
+  * Text and PDU modes
+  * Point-to-point MO and MT
+  * SMS cell broadcast
+  * SMS storage: ME by default
+
+* For more key features of EG25-G Module [click here](https://github.com/sbcshop/PiTalk_4G_Dongle_Hardware/tree/main/Documents)
 
 <img src ="https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/images/PiTalkPinouts.png" />
 
