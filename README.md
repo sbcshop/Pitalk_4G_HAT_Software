@@ -60,15 +60,15 @@ git clone https://github.com/sbcshop/Pitalk_4G_HAT_Software.git
 
 <img src ="https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/images/Pitalk%20usb.jpg" />
 
-***Step.1 -*** We have also provided the USB feature in our PiTalk 4G HAT to use this HAT as dongle. For this you have to to install its ***USB driver*** provided in this Repository. For this download and unzip the zip file of it and ***install*** in your computer system.
+* We have also provided the USB feature in our PiTalk 4G HAT to use this HAT as dongle. For this you have to to install its ***USB driver*** provided in this Repository. For this download and unzip the zip file of it and ***install*** in your computer system.
 
-***Step.2 -*** After setup it, insert SIM card and attach 4G antenna to it and plugin it in your system via USB type-C cable and press the ***PWRKEY*** button for 3-4seconds to activate the module, ***NETLIGHT*** will start blinking. If everything goes well it will connect as a cellular network in your system. You can also open the device manager to see ***COM Port of Quectel*** device showing as in below image:
+* After setup it, insert SIM card and attach 4G antenna to it and plugin it in your system via USB type-C cable and press the ***PWRKEY*** button for 3-4seconds to activate the module, ***NETLIGHT*** will start blinking. If everything goes well it will connect as a cellular network in your system. You can also open the device manager to see ***COM Port of Quectel*** device showing as in below image:
 
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr6.png" />
 
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr7.png" />
 
-***Step.3 -*** After the succesfull connection to your PiTalk 4G HAT board you will be able to use your cellular network to connect with internet. 
+* After the succesfull connection to your PiTalk 4G HAT board you will be able to use your cellular network to connect with internet. 
 
 
 ## Documentation
