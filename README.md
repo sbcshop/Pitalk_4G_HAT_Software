@@ -62,12 +62,11 @@ git clone https://github.com/sbcshop/Pitalk_4G_HAT_Software.git
 
 ***Step.1 -*** We have also provided the USB feature in our PiTalk 4G HAT to use this HAT as dongle. For this you have to to install its ***USB driver*** provided in this Repository. For this download and unzip the zip file of it and ***install*** in your computer system.
 
-***Step.2 -*** After installing the USB driver compatible with your system, plugin your 4G USB Dongle in your system via USB Cable. Open the device manager and you will see ***COM Port of Quectel*** device showing as in below image:
+***Step.2 -*** After installing the USB driver compatible with your system, plugin your PiTalk 4G in your system via USB Cable. Open the device manager and you will see ***COM Port of Quectel*** device showing as in below image:
 
-<img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Img.png" />
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr6.png" />
 
-***Step.3 -*** Now, insert SIM card and attach 4G antenna to it and plugin it in your system after few seconds you see a green led will glow and a blue LED will start blinking. If everything goes well it will connect as a cellular network in your system as shown below:
+***Step.3 -*** After setup it, insert SIM card and attach 4G antenna to it and plugin it in your system via USB type-C cable and press the ***PWRKEY*** button for 3-4seconds to activate the module, ***NETLIGHT*** will start blinking. If everything goes well it will connect as a cellular network in your system as shown below:
 
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr7.png" />
 
@@ -80,7 +79,7 @@ git clone https://github.com/sbcshop/Pitalk_4G_HAT_Software.git
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
-* [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Raspberry Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
 * [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 ## Related Products
