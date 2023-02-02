@@ -4,7 +4,7 @@ import time
 from Library import PiTalk_4G
 
 
-phone_number = '9118520507' #Enter your mobile number
+phone_number = '' #Enter your mobile number
 time = 100                  #Enter call duration time
 text_message = 'Hello from EG25' #Enter your text message want to send
 
@@ -15,10 +15,10 @@ APN = 'airtelgprs.com' #Enter your APN
 #calling = PiTalk_4G.eg25().Call(phone_number, time)  #Uncomment this function line to use call functionality
 
 
-#Send_msg = PiTalk_4Geg25().SendSMessage(phone_number, text_message) #Uncomment this code line to send text message
+#Send_msg = PiTalk_4G.eg25().SendSMessage(phone_number, text_message) #Uncomment this code line to send text message
 
-#rcv_msg = ePiTalk_4Gg25().ReceiveMessage()                         #Uncomment this code line to recieve message/recent information about sim card activities
+#rcv_msg = PiTalk_4G.eg25().ReceiveMessage()                         #Uncomment this code line to recieve message/recent information about sim card activities
 
-#tcp  = eg25().TCP(ServerIP, Port, APN,5)                  #Uncomment this code line to use funtionality of tcp
+#tcp  = PiTalk_4G.eg25().TCP(ServerIP, Port, APN,5)                  #Uncomment this code line to use funtionality of tcp
 
 gps = PiTalk_4G.eg25().gps_positioning()   
