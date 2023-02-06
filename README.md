@@ -80,6 +80,15 @@ git clone https://github.com/sbcshop/Pitalk_4G_HAT_Software.git
 * [Raspberry Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
 * [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
+## Our Other GSM Based Products:
+
+* PiTalk 
+* PiTalk 2G HAT
+* PiTalk 4G HAT
+* PiTalk 4G Dongle
+
+
+
 ## Related Products
 
 * [PiTalk](https://shop.sb-components.co.uk/products/pitalk-modular-smartphone-for-raspberry-pi?variant=12516562436179)
