@@ -82,11 +82,10 @@ git clone https://github.com/sbcshop/Pitalk_4G_HAT_Software.git
 
 ## Our Other GSM Based Products:
 
-* PiTalk 
-* PiTalk 2G HAT
-* PiTalk 4G HAT
-* PiTalk 4G Dongle
-
+* [**PiTalk**]()
+* [**PiTalk 2G HAT**](https://github.com/sbcshop/Pitalk_2G_HAT_Software)
+* [**PiTalk 4G Dongle**]()
+* [**PiTalk 4G HAT**](itself)
 
 
 ## Related Products
