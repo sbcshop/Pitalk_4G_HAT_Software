@@ -55,8 +55,15 @@ git clone https://github.com/sbcshop/Pitalk_4G_HAT_Software.git
 * Now, open the both Example and Library directory. To open these files make sure you have python installed in your Pi board.
 * In examples Directory there are some example codes to use the different functionality of PiTalk HAT you have ***move out the example file*** which you want to run from the ***Examples directory*** and after that run the code by make some editing if require.
 
+## Setup PiTalk 4G to use Internet on Raspberry Pi
+* Connect HAT on Raspberry Pi,
+* Make sure you have enabled serial interface of Raspberry Pi, if not follow guide : [**"Serial Interface Enable RPi"**](https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/Documents/Serial%20Interface%20Enable%20RPi.pdf)
+* Once Pi is running and HAT is getting power make sure 4G module is on, for this press and hold power key for 3-4 sec. You will get confirmation by network status LED.  
+   <img src="https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/images/module_on.png">
 
-## Setup PiTalk 4G  Via USB
+* Follow setup guide provided here in github : [**"Steps for 4G HAT Internet on Raspberry Pi"**](https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/Documents/Steps%20for%204G%20HAT%20Internet%20on%20Raspberry%20Pi.pdf)
+
+## Setup PiTalk 4G Via USB
 
 <img src ="https://github.com/sbcshop/Pitalk_4G_HAT_Software/blob/main/images/Pitalk%20usb.jpg" />
 
